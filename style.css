@@ -152,19 +152,40 @@ p{
 }
   
 footer{
-    background-color: black;
+    background-color:black;
     margin: 0;
     height: 200px;
     padding-top: 20px;
     text-align: center;
 }
 
+
+.information{
+ 
+    margin: 50px;
+    display: flex;;
+   
+}
+
 footer h1{
     font-size: 50px;
+    color: white;  }
+
+#lastword{
     color: white;
-    
-    
+   
 }
+.lastinfo{
+    background-color: coral;
+    margin: 50px;
+    padding: 20px;
+}
+.buttom{
+    background-image: linear-gradient(rgb(197, 121, 121), rgb(127, 192, 127));
+    padding: 10px 20px;
+}
+
+
 
 
 
