@@ -1,0 +1,171 @@
+
+body{
+    margin: 0px
+}
+.first-sec{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.hulf-div{
+    width: 50%;
+    margin: 0 50px;
+}
+
+.hulf-div img{
+    width: 90%;
+    height: 90%;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+}
+.hulf-div-1st{
+    font-size: 50px;
+    display: flex;
+    margin: 50px 0 0 0;
+}
+
+#hulf-1st{
+    margin-top: 100px;
+}
+hr{
+    width: 5px;
+   background: rgb(211, 122, 49);
+   border-radius: 5px;
+   margin: 10px 20px 10px 0px;
+  
+   
+}
+
+.orange{
+    color: darkgoldenrod;
+}
+
+#button-1{
+    background-color: rgb(221, 106, 11);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.hr-2nd-middle{
+    text-align: center;
+    font-size: 50px;
+    align-content: center;
+}
+
+.sec-2nd{
+    margin: 50px 100px;
+    display: flex;
+}
+
+.middle-div{
+    width: 30%;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#middle-div-1st{
+    background-image: linear-gradient(rgb(207, 204, 34), rgb(214, 18, 139));
+}
+
+#middle-div-2nd{
+    background-image: linear-gradient( rgb(214, 201, 18), rgb(119, 135, 172));
+}
+
+#middle-div-3rd{
+    background-image: linear-gradient(rgb(221, 220, 177), rgb(139, 128, 22));
+}
+
+.img{
+    width: 40%;
+    height: 150px;
+    margin: 10px;
+}
+
+.sec-3rd{
+
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:left;
+    padding-left: 3%;
+    display: flex;
+    margin-bottom: 100px;
+    }
+
+.h1teg{
+        font-size: 50px;
+}
+#second-divof-3rd{
+
+    margin: 20px 100px 50px 0;
+}
+
+#img-2{
+    width: 100%;
+    height: auto;
+}
+
+p{
+    font-size: 20px;
+}
+.first-divof-3rd{
+    width: 70%;
+    margin: 0px 40px 0 50px;
+}
+
+.sec-4th{
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position-x:right;
+    background-position-y: bottom;
+    padding-left: 3%;
+    display: flex;
+    margin: 50px;
+
+
+}
+.hulf-div-1{
+    width: 40%;
+    height: auto;
+}
+
+
+.hulf-div-2{
+    width: 100%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.hulf-div-2 img{
+    width: 80%;
+    height: 100%;
+    
+}
+  
+footer{
+    background-color: black;
+    margin: 0;
+    height: 200px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+footer h1{
+    font-size: 50px;
+    color: white;
+    
+    
+}
+
+
+
+
